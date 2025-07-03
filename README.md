@@ -92,7 +92,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Your Name - [john.keppe@zohomail.com](mailto:john.keppe@zohomail.com)
 
-Project Link: [https://github.com/yourusername/Digital-Clock-Project](https://github.com/john.keppe/Digital-Clock-Project)
+Project Link: [https://github.com/john-keppe/Digital-Clock-Project](https://github.com/john-keppe/Digital-Clock-Project)
 
 ---
 
