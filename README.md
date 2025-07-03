@@ -79,10 +79,6 @@ Contributions are welcome! If you have suggestions for improvements:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - Tutorial followed: [Step-by-Step Guide: Create a Digital Clock with HTML, CSS, and JavaScript](https://www.codewithfaraz.com/content/171/step-by-step-guide-create-a-digital-clock-with-html-css-and-javascript#introduction)
